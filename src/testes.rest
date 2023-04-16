@@ -1,0 +1,20 @@
+###
+POST http://localhost:3000/products
+Content-Type: application/json 
+
+{
+    "title":"Teste",
+    "description": "funcionar é pica",
+    "price": 20
+}
+###
+GET http://localhost:3000/products
+###
+PUT http://localhost:3000/products/6413c21ef8e54367a854a0c2
+Content-Type: application/json 
+
+{
+    "title":"primeiro att",
+    "description": "to the moon",
+    "price": 200000
+}
