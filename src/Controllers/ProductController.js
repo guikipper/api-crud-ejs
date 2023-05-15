@@ -2,18 +2,18 @@ const ProductModel = require('../Models/productModel')
 
 class ProductController {
     async store(req, res) {
-        const createdProduct = await ProductModel.create(req.body) //create é um método de Mongoose
+        const createdProduct = await ProductModel.create(req.body)
         return res.status(200).json(createdProduct)
     }   
 
-    async index(req, res) { //busca todos os produtos
+    async index(req, res) {
         const products = await ProductModel.find()
         return res.status(200).json({products})
     }
 
     async show(req, res) {
         try {
-            const { id } = req.params //desestruturação da variável ID passada no Get
+            const { id } = req.params 
 
         const product = await ProductModel.findById(id)
 

@@ -1,7 +1,5 @@
 const mongoose = require('mongoose')
 
-//Esse model veio do próprio Mongoose
-
 const Schema = mongoose.Schema
 const ObjectId = Schema.ObjectId
 
