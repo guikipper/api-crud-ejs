@@ -20,7 +20,4 @@ A aplicação é construída sobre o Node.js, utilizando o Express para o roteam
 - **EJS:** Template engine para gerar o HTML dinâmico a partir do servidor. 🖌️
 - **MongoDB:** Banco de dados NoSQL para armazenar os dados do CRUD. 🍃
 - **Mongoose:** Biblioteca do Node.js que proporciona modelagem de objetos para MongoDB com base em esquemas. 📐
-
----
-
-Sinta-se livre para explorar, aprender e contribuir para este projeto! Juntos, podemos fazer uma aplicação incrível! 🌟
+- 
