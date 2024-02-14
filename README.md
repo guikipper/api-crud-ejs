@@ -20,4 +20,7 @@ A aplicação é construída sobre o Node.js, utilizando o Express para o roteam
 - **EJS:** Template engine para gerar o HTML dinâmico a partir do servidor. 🖌️
 - **MongoDB:** Banco de dados NoSQL para armazenar os dados do CRUD. 🍃
 - **Mongoose:** Biblioteca do Node.js que proporciona modelagem de objetos para MongoDB com base em esquemas. 📐
-- 
+
+## Print do Projeto
+
+![Captura de tela 2024-02-14 200443](https://github.com/guikipper/api-crud-ejs/assets/33471042/f223dfdf-66ca-4045-8b79-7348fc7e633d)
