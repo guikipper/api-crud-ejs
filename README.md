@@ -22,14 +22,14 @@ A aplicação é construída sobre o Node.js, utilizando o Express para o roteam
 - **Mongoose:** Biblioteca do Node.js que proporciona modelagem de objetos para MongoDB com base em esquemas. 📐
 
 
-## Rodando o projeto
+
+## Instalação
 - Antes de executar o projeto, é necessário configurar a conexão com o MongoDB no arquivo `src/loaders/mongodb.js`. Você deve inserir sua credencial de conexão ao MongoDB neste arquivo.
 
 ```javascript
-// src/loaders/mongodb.js
+    src/loaders/mongodb.js
 ```
 
-### Instalação
 1. Abra o projeto no GitHub Codespaces ou clone o repositório localmente em sua máquina.
     ```bash
     git clone https://github.com/guikipper/api-crud-ejs
