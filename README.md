@@ -1,4 +1,4 @@
-# Projeto CRUD EJS 🚀
+# Projeto API CRUD EJS 🚀
 
 ## Sobre o Projeto 📖
 
