@@ -51,7 +51,7 @@ A aplicação é construída sobre o Node.js, utilizando o Express para o roteam
 3. Digite no navegador
 
     ```bash
-    [npm run dev](http://localhost:3000/home)
+    http://localhost:3000/home
     ```
 
 ## Print do Projeto
