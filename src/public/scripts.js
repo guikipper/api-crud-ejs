@@ -16,7 +16,7 @@ const getData = async (id) => {
     try {
         const url = `http://localhost:3000/products/${id}`
         const res = await fetch(url);
-        console.log(res.status)
+
         if (res.status != 200) {
             alert('Verifique o ID')
         } else if (res.status == 200) {
