@@ -27,7 +27,7 @@ A aplicação é construída sobre o Node.js, utilizando o Express para o roteam
 - Antes de executar o projeto, é necessário configurar a conexão com o MongoDB no arquivo `src/loaders/mongodb.js`. Você deve inserir sua credencial de conexão ao MongoDB neste arquivo.
 
 ```javascript
-    src/loaders/mongodb.js
+src/loaders/mongodb.js
 ```
 
 1. Abra o projeto no GitHub Codespaces ou clone o repositório localmente em sua máquina.
