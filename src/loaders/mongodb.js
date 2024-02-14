@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 async function startDB() {
-    await mongoose.connect('mongodb+srv://guikipper1:83HVokSxLwnuVfbi@learnmusicdatabase.iiz7uzy.mongodb.net/')
+    await mongoose.connect('Sua credencial do banco de dados.')
 }
 
 module.exports = startDB
